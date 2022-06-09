@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HSMathebula/todo-list-react/static/css/main.31cd00b7.css",
+    "main.js": "/HSMathebula/todo-list-react/static/js/main.3458d4ec.js",
+    "static/js/787.57950024.chunk.js": "/HSMathebula/todo-list-react/static/js/787.57950024.chunk.js",
+    "index.html": "/HSMathebula/todo-list-react/index.html",
+    "main.31cd00b7.css.map": "/HSMathebula/todo-list-react/static/css/main.31cd00b7.css.map",
+    "main.3458d4ec.js.map": "/HSMathebula/todo-list-react/static/js/main.3458d4ec.js.map",
+    "787.57950024.chunk.js.map": "/HSMathebula/todo-list-react/static/js/787.57950024.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31cd00b7.css",
+    "static/js/main.3458d4ec.js"
+  ]
+}
